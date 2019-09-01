@@ -13,7 +13,6 @@
   "cordova": {
     "id": "cordova-plugin-firebase",
     "platforms": [
-      "android",
       "ios",
       "browser"
     ]
