@@ -1,4 +1,4 @@
-# Version 2.0.5
+# Version 2.0.6
 
 ### Bug Fixes
 - <a href="https://github.com/arnesson/cordova-plugin-firebase/issues/897">#897</a>: Fixed issue with after_prepare hook not copying required files
